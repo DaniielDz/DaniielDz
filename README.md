@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;Currently, I'm working as a frontend web developer on Fiverr and Upwork as a freelancer.\
+👨‍💻 &nbsp;Currently, I'm working as a frontend web developer on Fiverr as a freelancer.\
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Computer Science at Universidad Nacional de Córdoba.\
 🌱 &nbsp;I'm on track for learning more about Front-end and Back-end.\
@@ -69,11 +69,3 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/daniiel-diazz/"><img src="https://img.shields.io/badge/-Daniel%20Diaz-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
-
-### 🐍 &nbsp;That's How Commits move ...
-
-<div align="center">
-  <a href="https://github.com/DaniielDz/">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
