@@ -4,10 +4,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;Currently, I'm working as a frontend web developer on Fiverr as a freelancer.\
+👨‍💻 &nbsp;Currently, I'm working as a fullstack web developer on Fiverr as a freelancer.\
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Computer Science at Universidad Nacional de Córdoba.\
-🌱 &nbsp;I'm on track for learning more about Front-end and Back-end.\
 💬 &nbsp;Please feel free to reach out to me for any work opportunities..\
 ✉️ &nbsp;You can shoot me an email at daniieldz10@gmail.com! I'll try to respond as soon as I can.\
 <!--📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions! -->
