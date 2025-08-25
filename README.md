@@ -109,7 +109,7 @@ Web desarrollada para mostrar **paquetes de recursos de Minecraft**, con panel d
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniielDz&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniielDz&layout=donut&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
