@@ -99,7 +99,9 @@ Web desarrollada para mostrar **paquetes de recursos de Minecraft**, con panel d
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaniielDz&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <a href="https://github.com/DaniielDz">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DaniielDz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </a>
 </p>
 
 <p align="center">
