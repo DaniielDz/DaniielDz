@@ -12,9 +12,6 @@
   <a href="mailto:daniieldz10@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/DaniielDz" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 </p>
 
 Llevo más de 2 años creando aplicaciones web como desarrollador freelance, tiempo en el que he completado más de 40 proyectos para clientes de todo el mundo. Me muevo con comodidad en todo el stack: en el backend, me centro en diseñar **APIs eficientes y escalables** con Node.js; en el frontend, doy vida a las ideas con interfaces de usuario en React y Next.js, priorizando siempre una **experiencia de usuario accesible y de alto rendimiento**. Más allá de la tecnología, mi prioridad es la calidad del código, aplicando buenas prácticas y principios de diseño para construir software **robusto a largo plazo**.
