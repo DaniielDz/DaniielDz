@@ -59,9 +59,6 @@ Además del backend, tengo experiencia lanzando productos digitales completos al
   <tr>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://homecosthub.com" target="_blank">HomeCostHub</a></h3>
-      <p align="center">
-        <img src="https://homecosthub.com/logo.png" alt="Logo HomeCostHub" width="60">
-      </p>
       <p>Plataforma de estimación de costos para proyectos del hogar en EE. UU. Ofrece múltiples calculadoras (construcción, remodelación), una calculadora de hipotecas y dashboards para la gestión de datos.</p>
       <p><strong>Stack:</strong> Next.js, TypeScript, React, Tailwind CSS, Radix UI, Supabase (DB + Auth), Vercel.</p>
     </td>
@@ -82,5 +79,5 @@ Además del backend, tengo experiencia lanzando productos digitales completos al
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DaniielDz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniielDz&layout=compact&theme=tokyonight&hide=html,css" alt="Top Langs" />
+ <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DaniielDz&layout=compact&theme=tokyonight&hide=html,css" alt="Top Langs" />
 </p>
