@@ -58,7 +58,7 @@ Además del backend, tengo experiencia lanzando productos digitales completos al
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://homecosthub.com" target="_blank">HomeCostHub</a></h3>
+      <h3 align="center"><a href="http://homecosthub.netlify.app" target="_blank">HomeCostHub</a></h3>
       <p>Plataforma de estimación de costos para proyectos del hogar en EE. UU. Ofrece múltiples calculadoras (construcción, remodelación), una calculadora de hipotecas y dashboards para la gestión de datos.</p>
       <p><strong>Stack:</strong> Next.js, TypeScript, React, Tailwind CSS, Radix UI, Supabase (DB + Auth), Vercel.</p>
     </td>
